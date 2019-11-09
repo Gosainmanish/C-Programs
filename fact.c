@@ -19,3 +19,4 @@ main()
         v=fact(m);
 printf("\n FACTORIAL : %d ",v);
 }
+//This is a C Program for calculating factorial of a number
